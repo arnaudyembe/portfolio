@@ -21,11 +21,15 @@ Getmoney Trading platform
 ### Work Experience 
 January 2021 - Ongoing 
 OVO ENERGY -  ECO,  7 Admiral Way, Sunderland SR3 3XW - Account management and Telesales with ESB.
+
 June 2020 - January 2021
 Ascending Branding, Newcastle,  3 Old Eldon Square NE17JG - Sales manager through direct sales, door to door salesmen.
+
 September 2018 - April 2019
 Young Asian Voices Centre, Upper, Sans St S, Sunderland SR1 1H - Receptionist 
+
 May 2019 - February 2020
 Farah’s Cafe, Sunderland St, Sunderland SR1 1TX - Waiter
+
 January 2019 - December 2019
 Avenue and Greene, Newcastle,  Quayside, Newcastle upon Tyne NE1 3DE - Sales Assistant 
