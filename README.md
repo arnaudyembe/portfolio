@@ -3,15 +3,20 @@
 ### About me 
 I possess a strong proficiency in a diverse set of programming and scripting languages, including:
 
-Python: Experienced in developing applications, scripting, and data analysis. Proficient in utilizing various libraries and frameworks.
+-Python: Experienced in developing applications, scripting, and data analysis. Proficient in utilizing various 
+ libraries and frameworks.
 
-SQL: Skilled in designing and optimizing relational databases, creating complex queries, and ensuring efficient data management.
+-SQL: Skilled in designing and optimizing relational databases, creating complex queries, and ensuring efficient data 
+ management.
 
-JavaScript: Proficient in both front-end and back-end development, with expertise in building interactive and dynamic web applications using modern frameworks.
+-JavaScript: Proficient in both front-end and back-end development, with expertise in building interactive and 
+ dynamic web applications using modern frameworks.
 
-HTML: Strong understanding of web markup languages, with the ability to create well-structured and semantic HTML code for web development projects.
+-HTML: Strong understanding of web markup languages, with the ability to create well-structured and semantic HTML 
+ code for web development projects.
 
-C: Solid programming foundation with proficiency in C, enabling efficient system-level programming and algorithm implementation.
+-C: Solid programming foundation with proficiency in C, enabling efficient system-level programming and algorithm 
+ implementation.
 
 These skills have been applied in various projects, demonstrating my ability to adapt and excel in different programming environments. Continuous learning and staying updated with the latest industry trends are integral parts of my commitment to delivering high-quality solutions.
 
